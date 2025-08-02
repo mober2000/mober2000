@@ -1,7 +1,5 @@
 <p align="center">
   <p align="center">
-  <img src="https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif" alt="trance festival animation" width="300" />
-</p>
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200" />
 </p>
@@ -84,7 +82,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/cLAcfT9Q2Fz3b8BQNX/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" />
 </p>
