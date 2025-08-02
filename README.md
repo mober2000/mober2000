@@ -82,7 +82,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cLAcfT9Q2Fz3b8BQNX/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" />
 </p>
 
