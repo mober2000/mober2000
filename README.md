@@ -9,10 +9,6 @@
   <i>Senior QA Engineer | Automation Enthusiast | Mentor | Sber Tech</i>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0066&center=true&vCenter=true&width=600&lines=🔥+QA+в+антистиле+;+Никаких+скучных+тест-кейсов;+CI%2FCD+как+искусство;+Убийственно+красивые+лог-сессии;+Git+push+или+умри" />
-</p>
-
 ---
 
 ## 🧠 Обо мне
