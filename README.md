@@ -39,6 +39,13 @@
 | 🔭 Логирование    | Kibana, Grafana, AppMetrica, Firebase, RedHat OpenShift                    |
 | 💬 Прочее         | Apache Kafka, GitHub, GitLab, Linux, MacOS, Windows, ChatGPT              |
 
+## 📄 Пример тест-кейсов
+
+📂 В этом [файле с тест-кейсами (Google Docs)](https://docs.google.com/document/d/1SAMPLE_LINK_12345) я собрал пример чек-листа и формализованных тестов для демонстрации подхода к документированию. Формат — Test Case ID, шаги, ожидаемый результат, приоритет.
+
+_Если нужна реальная документация под конкретный проект — пишите, скину по запросу._
+
+--- Apache Kafka, GitHub, GitLab, Linux, MacOS, Windows, ChatGPT              |
 ---
 
 ## 🚀 Проекты из портфолио
