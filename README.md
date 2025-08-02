@@ -6,6 +6,12 @@
 
 <h1 align="center">Привет! Я Чебанов Алексей 👋</h1>
 <p align="center">
+  <img src="https://img.shields.io/badge/CI-passing-brightgreen" />
+  <img src="https://img.shields.io/badge/Java-✔️-blue" />
+  <img src="https://img.shields.io/badge/QA%20Mentor-active-purple" />
+  <img src="https://img.shields.io/badge/Freelance-Available-success" />
+</p>
+<p align="center">
   <i>Senior QA Engineer | Automation Enthusiast | Mentor | Sber Tech</i>
 </p>
 
