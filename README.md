@@ -41,7 +41,7 @@
 
 ## 📄 Пример тест-кейсов
 
-📂 В этом [файле с тест-кейсами (Google Docs)]([https://docs.google.com/document/d/1SAMPLE_LINK_12345](https://docs.google.com/spreadsheets/d/1yizeeZhqdvrmoKGuGf0yHyEho91Z_ElmvAXZ67kHQEI/edit?hl=ru&gid=251584426#gid=251584426)) я собрал пример чек-листа и формализованных тестов для демонстрации подхода к документированию. Формат — Test Case ID, шаги, ожидаемый результат, приоритет.
+📂 В этом [файле с тест-кейсами (Google Docs)](https://docs.google.com/spreadsheets/d/1yizeeZhqdvrmoKGuGf0yHyEho91Z_ElmvAXZ67kHQEI/edit?hl=ru&gid=251584426#gid=251584426) я собрал пример чек-листа и формализованных тестов для демонстрации подхода к документированию. Формат — Test Case ID, шаги, ожидаемый результат, приоритет.
 
 _Если нужна реальная документация под конкретный проект — пишите, скину по запросу._
 
