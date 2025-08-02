@@ -1,71 +1,80 @@
-<h1 align="center">Привет! Я Алексей 👋</h1>
+<h1 align="center">Привет! Я Чебанов Алексей 👋</h1>
 <p align="center">
-  <i>QA Engineer • Automation Enthusiast • Mentor • TestOps Explorer</i>
+  <i>Senior QA Engineer | Automation Enthusiast | Mentor | Sber Tech</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flatcross&label=Просмотров&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mober2000&label=Просмотров&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🧩 Обо мне
+## 🧠 Обо мне
 
-- 🧪 Более 4 лет в QA (ручное и автоматизированное тестирование)
-- 🖥️ Работаю с высоконагруженными B2B и API-системами
-- ⚙️ Преподаю тестирование и помогаю входить в IT
-- 🚀 Постоянно качаю стек, люблю CI/CD и чистые отчёты
+- 💼 Senior QA Engineer с 4+ годами опыта в ручном и автоматизированном тестировании
+- 🚀 Работал в Сбере, Эвоторе, Промсвязьбанке и других IT-компаниях
+- 🛠️ Эксперт в тестировании Web, Backend, Android, iOS, API и баз данных
+- 📚 Менторю начинающих QA и веду обучающие проекты
+- 🎯 Увлечён автоматизацией, CI/CD, логами и тест-дизайном
+- 🗣 Английский язык — уровень B1
 
 ---
 
-## 🧰 Мой стек
+## 💻 Мой стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,selenium,idea,postman,git,github,docker,junit,linux,py" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,postman,selenium,jenkins,docker,git,github,junit,maven,idea,linux" />
 </p>
 
 | Категория       | Инструменты                                                                 |
 |------------------|-----------------------------------------------------------------------------|
-| 🧪 Тестирование   | JUnit 5, AssertJ, Selenide, RestAssured, Allure, TestNG                    |
-| 🌐 API и Web     | Postman, Swagger, Charles, DevTools, WebDriverManager                      |
-| 🐳 CI/CD и DevOps | GitHub Actions, Jenkins, Selenoid, Docker, TestContainers                  |
-| 📊 Наблюдаемость | Kibana, Grafana, Metabase, Allure, лог-анализ                              |
-| 🧾 Документация  | Jira, TestRail, Confluence, TestIT                                          |
-| 💬 Коммуникация  | Telegram, Discord, Figma, Miro                                              |
+| 🧪 Тестирование   | JUnit 4/5, RestAssured, Selenide, Selenium, Appium, Espresso, Allure        |
+| 🔌 API и Backend  | Postman, Swagger, REST, SOAP, Charles, Insomnia, IntelliJ HTTP Client      |
+| 💻 UI и Mobile    | AndroidStudio, Xcode, UIAutomator, Espresso, DevTools, Figma               |
+| 🧾 Документация  | Jira, TestRail, TestIT, Confluence, Zephyr, YouTrack                       |
+| 🗃️ БД            | MySQL, PostgreSQL, Oracle, DBeaver                                          |
+| 📦 CI/CD и DevOps | Jenkins, Docker, Maven, Gradle, OpenShift, Bash, GitLab CI                |
+| 🔭 Логирование    | Kibana, Grafana, AppMetrica, Firebase, RedHat OpenShift                    |
+| 💬 Прочее         | Apache Kafka, GitHub, GitLab, Linux, MacOS, Windows, ChatGPT              |
+
+---
+
+## 🚀 Проекты из портфолио
+
+| Название | Описание | Стек |
+|----------|----------|------|
+| `Diplom_1` | Unit-тесты для бизнес-логики | Java, JUnit, Gradle |
+| `Diplom_2` | API автотесты | Java, RestAssured, Allure |
+| `Diplom_3` | UI автотесты | Java, Selenide, Allure |
+| `JavaAppium-Allure` | Мобильные автотесты | Appium, Java, Allure |
 
 ---
 
 ## 📈 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flatcross&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mober2000&show_icons=true&theme=tokyonight&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=flatcross&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mober2000&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flatcross&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mober2000&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Последние проекты
+## 📬 Контакты
 
-| 🔍 Название | 💬 Описание | 🚀 Стек |
-|------------|-------------|---------|
-| `api-test-framework` | Фреймворк на Java для REST API с Allure и CI | `Java`, `RestAssured`, `JUnit`, `Allure`, `GitHub Actions` |
-| `web-ui-tests` | Автотесты интерфейса интернет-магазина | `Selenide`, `PageObject`, `Allure`, `Docker` |
-| `qa-resume-helper` | Telegram-бот для генерации резюме QA | `Python`, `Aiogram`, `OpenAI`, `Heroku` |
-
----
-
-## ✍️ Как со мной связаться
-
-- 📫 Telegram: [@alexqa_test](https://t.me/alexqa_test)
-- 📬 Email: alex.qa@example.com
-- 📄 [Моё резюме (hh.ru)](https://hh.ru/resume/your_link)
+- 📨 Email: chebanov.alexey.qa@gmail.com
+- 💬 Telegram: [@lexasas](https://t.me/lexasas)
+- 📍 Город: Москва, м. Фрунзенская
+- 📄 [Автотесты в портфолио](https://github.com/mober2000?tab=repositories)
 
 ---
 
 <p align="center">
-  <i>Спасибо, что заглянул(а) 🙌</i><br/>
-  <i>Если понравилось — ставь ⭐️ в репах и пиши в ТГ</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3F78C4&center=true&vCenter=true&width=435&lines=QA+Engineer+with+4%2B+years+experience;Mentor+and+test+automation+enthusiast;Always+learning+new+tools+and+tech"> 
+</p>
+
+<p align="center">
+  <i>Спасибо за визит! Оставь ⭐ в репах, если что-то понравилось 😉</i>
 </p>
