@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mober2000&label=Просмотров&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0066&center=true&vCenter=true&width=600&lines=🔥+QA+в+антистиле+;+Никаких+скучных+тест-кейсов;+CI%2FCD+как+искусство;+Убийственно+красивые+лог-сессии;+Git+push+или+умри" />
 </p>
 
@@ -33,7 +29,7 @@
 ## 💻 Мой стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,postman,selenium,jenkins,docker,git,github,junit,maven,idea,linux" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,postman,selenium,jenkins,docker,git,github,maven,linux,intellij,apache" />
 </p>
 
 | Категория       | Инструменты                                                                 |
