@@ -39,13 +39,18 @@
 | 🔭 Логирование    | Kibana, Grafana, AppMetrica, Firebase, RedHat OpenShift                    |
 | 💬 Прочее         | Apache Kafka, GitHub, GitLab, Linux, MacOS, Windows, ChatGPT              |
 
-## 📄 Пример тест-кейсов
+## 📄 Примеры тестовой документации
 
-📂 В этом [файле с тест-кейсами (Google Docs)](https://docs.google.com/spreadsheets/d/1yizeeZhqdvrmoKGuGf0yHyEho91Z_ElmvAXZ67kHQEI/edit?hl=ru&gid=251584426#gid=251584426) я собрал пример чек-листа и формализованных тестов для демонстрации подхода к документированию. Формат — Test Case ID, шаги, ожидаемый результат, приоритет.
+📂 **Тест-кейсы** — [скачать Excel-файл](https://github.com/mober2000/mober2000/raw/main/test-cases.xlsx)
 
-_Если нужна реальная документация под конкретный проект — пишите, скину по запросу._
+🪲 **Баг-репорты** — [пример багов (Google Docs)](https://docs.google.com/document/d/1SAMPLE_BUG_REPORT_LINK)
 
---- Apache Kafka, GitHub, GitLab, Linux, MacOS, Windows, ChatGPT              |
+📘 **Чек-листы** — [пример чек-листа (Google Docs)](https://docs.google.com/document/d/1SAMPLE_CHECKLIST_LINK)
+
+📝 **Test Plan** — [пример test plan (Google Docs)](https://docs.google.com/document/d/1SAMPLE_TESTPLAN_LINK)
+
+📄 **User Stories** — [пример user stories (Google Docs)](https://docs.google.com/document/d/1SAMPLE_USERSTORY_LINK)
+
 ---
 
 ## 🚀 Проекты из портфолио
