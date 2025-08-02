@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/mober2000/mober2000/blob/output/github-contribution-grid-snake-dark.svg" alt="new snake animation" />
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200" />
 </p>
