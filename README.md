@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=435&lines=Привет!+Я+Чебанов+Алексей+👋;Senior+QA+Engineer+с+4+годами+опыта;Mentor+по+тестированию;Люблю+CI/CD+и+Allure;Работаю+в+Сбер;QA+с+душой+и+автотестами" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Привет!+Я+Чебанов+Алексей+👋" alt="typing intro" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CI-passing-brightgreen" />
