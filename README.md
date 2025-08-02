@@ -4,14 +4,9 @@
   <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYDGA5eCz8e3srm/giphy.gif" width="100%" alt="QA in progress banner" />
-  <img src="https://github.com/mober2000/mober2000/blob/output/github-contribution-grid-snake-dark.svg" alt="new snake animation" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200" />
-</p>
-
-<h1 align="center">Привет! Я Чебанов Алексей 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Привет!+Я+Чебанов+Алексей+👋" alt="Typing SVG" />
+</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/CI-passing-brightgreen" />
   <img src="https://img.shields.io/badge/Java-✔️-blue" />
