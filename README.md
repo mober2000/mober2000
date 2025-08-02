@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200" />
+</p>
+
 <h1 align="center">Привет! Я Чебанов Алексей 👋</h1>
 <p align="center">
   <i>Senior QA Engineer | Automation Enthusiast | Mentor | Sber Tech</i>
@@ -5,6 +11,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mober2000&label=Просмотров&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0066&center=true&vCenter=true&width=600&lines=🔥+QA+в+антистиле+;+Никаких+скучных+тест-кейсов;+CI%2FCD+как+искусство;+Убийственно+красивые+лог-сессии;+Git+push+или+умри" />
 </p>
 
 ---
@@ -72,7 +82,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3F78C4&center=true&vCenter=true&width=435&lines=QA+Engineer+with+4%2B+years+experience;Mentor+and+test+automation+enthusiast;Always+learning+new+tools+and+tech"> 
+  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/cLAcfT9Q2Fz3b8BQNX/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" />
 </p>
 
 <p align="center">
